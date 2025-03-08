@@ -1,3 +1,17 @@
+## Teste de Edição de Documentação Usando IAs Generativas como Ferramenta de Auxílio
+
+Com o avanço das tecnologias de inteligência artificial, é possível otimizar o processo de criação e edição de documentação de projetos de software. As IAs generativas, como o GPT (Generative Pre-trained Transformer), podem ser empregadas de diversas maneiras, incluindo:
+
+- **Geração automática de texto**: IAs como o GPT podem auxiliar na criação de conteúdos explicativos e na tradução de textos, economizando tempo durante a escrita da documentação.
+- **Sugestões de melhorias**: A IA pode analisar a estrutura de um documento e sugerir melhorias em termos de clareza, fluidez, e até mesmo gramática, oferecendo alternativas para tornar o texto mais acessível.
+- **Apoio na organização e estruturação**: As IAs podem ajudar a organizar seções de documentação de forma lógica e intuitiva, sugerindo a criação de novos tópicos ou a redistribuição de informações.
+- **Personalização do conteúdo**: A IA pode ser configurada para gerar conteúdo específico para diferentes tipos de público, como desenvolvedores, gestores ou usuários finais.
+
+Esse tipo de abordagem pode ser especialmente útil para equipes de desenvolvimento que buscam manter a documentação atualizada de forma mais eficiente, reduzindo o tempo gasto em tarefas repetitivas e garantindo maior qualidade na entrega final.
+
+Neste projeto, a utilização de IAs generativas foi explorada para automatizar parte da criação da documentação, como traduções e revisões de conteúdo, ajudando a garantir a clareza e a acessibilidade da documentação para diversos públicos.
+
+
 <h1 align="center">
   <br />
   <img
